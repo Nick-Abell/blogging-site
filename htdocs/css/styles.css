@@ -1,0 +1,32 @@
+/* general text formatting */
+
+h1, h2, h3, legend {
+ font-family: 'Merriweather', serif;    }
+
+
+.w3-content {
+background-color: #107d59;
+}
+.pop-post-button{
+	margin-left: 10px;
+	float: right;
+	
+}
+w3_card.comment{
+	padding: 10px;
+}
+div.w3-container.w3-padding {
+	background-color: #9085f2;
+}
+body > header {
+	background-color: #9085f2;
+}
+body > footer {
+	background-color: #682af7;	
+}
+.cHeader{
+right: 50px;
+}
+.carea{
+	
+}
